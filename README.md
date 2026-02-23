@@ -18,6 +18,8 @@ TensorFlow / Keras
 NumPy
 Matplotlib
 Google Colab
+
+
 🚀 How to Run the Project
 Download dataset from Kaggle link above.
 Extract the dataset.
@@ -34,6 +36,7 @@ Softmax Output Layer
 📈 Results
 Training Accuracy:99 %
 Validation Accuracy:72 %
+
 📌 Future Improvements
 Add real-time gesture detection using webcam
 Improve accuracy with data augmentation
